@@ -1,3 +1,3 @@
-# tic-tac-toe
+# Python applications
 
-Simple 'Tic-Tac-Toe' game developed using python.
+Develop applications using pyhton.
